@@ -1,0 +1,12 @@
+varBrowser =  "chrome"
+varURL = "http://11.100.6.42:9004/nbsweb/secure/home.html"
+varURLShortProposal = "http://11.100.6.42/nbsweb/secure/iserve/newcaseshortly/pa/other/record/index.html?uuid=46bfdb1732364b7459d104664b8f2ffd"
+varURLSubmitProposal = "http://11.100.6.42:9004/nbsweb/secure/iserve/newcaseshortly/data/transmission/branchother/index.html?uuid=798c57e097cf1c74f5962a4d5ace0bee"
+varURLFullProposal = "http://11.100.6.42:9004/nbsweb/secure/iserve/newcase/pa/other/search/other/index.html?uuid=0335eb62d4e4c924814c17ab1c32f4ba"
+varURLPrintReceipt ="http://11.100.6.42:9004/nbsweb/secure/iserve/newcase/pa/other/receive-slip/index.html?uuid=74f9a09145694de44972923238882784"
+varURLTransferAS400 = "http://11.100.6.42:9004/nbsweb/secure/iserve/newcase/pa/other/policy-info/index.html?uuid=6d963473307be164613a02731bc0d39c"
+varUsername = "4900"
+varPassword = "4900"
+varExcelFile = "data/data.xls"
+varSheetName = "SheetPA"
+CROP_MARGIN =  10

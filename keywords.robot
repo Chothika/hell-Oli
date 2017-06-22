@@ -1,0 +1,3 @@
+*** Keywords ***
+Login
+    Open Browser
